@@ -11,9 +11,9 @@ title                    : "Paul Bouscasse"
 title_separator          : "-"
 name                     : &name "Paul Bouscasse"
 description              : &description "personal description"
-url                      : https://www.paul-bouscasse.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.paul-bouscasse.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "paul-bouscasse.com/"
+repository               : "paul-bouscasse.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
