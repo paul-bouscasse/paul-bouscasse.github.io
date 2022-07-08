@@ -8,9 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD Candidate  
-Department of Economics  
-Columbia University  
+Research Associate  
+Faculty of Economics  
+University of Cambridge  
   
 <p style='text-align: justify;'>Fields: Macroeconomics, International Finance, Economic History</p>
 ---  
