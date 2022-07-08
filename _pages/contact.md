@@ -8,10 +8,12 @@ author_profile: true
 
 Email: [paul.bouscasse@columbia.edu](mailto:paul.bouscasse@columbia.edu)
 
-Phone: +1 (929) 336-4231
+Phone: +33 6 71 03 15 91
 
 Address:  
-Department of Economics  
-Columbia University  
-420 West 118th Street  
-New York, NY 10027  
+Faculty of Economics
+University of Cambridge
+Austin Robinson Building
+Sidgwick Avenue
+Cambridge, CB3 9DD
+United Kingdom
