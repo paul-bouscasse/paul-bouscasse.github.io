@@ -6,9 +6,9 @@ author_profile: true
 ---
 <hr />
 
-Email: [paul.bouscasse@columbia.edu](mailto:paul.bouscasse@columbia.edu)
+Email: [paul.bouscasse@econ.cam.ac.uk](mailto:paul.bouscasse@econ.cam.ac.uk)
 
-Phone: +33 6 71 03 15 91
+Phone: +44 1223 335285
 
 Address:  
 Faculty of Economics  
@@ -16,4 +16,4 @@ University of Cambridge
 Austin Robinson Building  
 Sidgwick Avenue  
 Cambridge, CB3 9DD  
-United Kingdom  
+United Kingdom
