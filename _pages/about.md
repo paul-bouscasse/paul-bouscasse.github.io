@@ -14,4 +14,4 @@ University of Cambridge
   
 <p style='text-align: justify;'>Fields: Macroeconomics, International Finance, Economic History</p>
 ---  
-<p style='text-align: justify;'>Welcome! I hold a PhD in Economics from Columbia University. I will be a Research Associate at the University of Cambridge in 2022-23 and an Assistant Professor at Sciences Po from September 2023 on.</p>
+<p style='text-align: justify;'>Welcome! I am a Research Associate at the University of Cambridge and I will be an Assistant Professor at Sciences Po from September 2023 on.</p>
