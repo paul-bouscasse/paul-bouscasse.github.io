@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Research Fellow 
+Postdoctoral Research Fellow  
 Faculty of Economics  
 University of Cambridge  
   
