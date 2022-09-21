@@ -18,6 +18,4 @@ Sidgwick Avenue
 Cambridge, CB3 9DD  
 United Kingdom  
 
-Office:  
-Room 59  
-Austin Robinson Building
+Office: room 59
