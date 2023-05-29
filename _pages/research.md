@@ -6,6 +6,12 @@ author_profile: true
 ---
 ---
   
+p 
+{ 
+   padding:0px; 
+   margin:0px; 
+} 
+
 <p style='text-align: justify;'>
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>paper</a></p>
