@@ -11,7 +11,7 @@ Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>paper</a></p>
 
 <p style='text-align: justify;'>When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870, with <a href='https://eml.berkeley.edu/~enakamura'>Emi Nakamura</a> and <a href='https://eml.berkeley.edu/~jsteinsson'>Jón Steinsson</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Revise and resubmit, <i>Quarterly Journal of Economics</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Revise and resubmit, <i>QJE</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://paul-bouscasse.github.io/files/bns_malthus.pdf'>paper</a>, <a href='https://paul-bouscasse.github.io/files/malthus_estimates.xlsx'>estimates</a></p>
 
 <p style='text-align: justify;'>Supply or Demand: What Drives Fluctuations in the Bank Loan Market? with <a href='https://sites.google.com/view/carlo-altavilla/home'>Carlo Altavilla</a> and <a href='https://www.ecb.europa.eu/pub/research/authors/profiles/miguel-boucinha.en.html'>Miguel Boucinha</a><br>
