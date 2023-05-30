@@ -17,7 +17,7 @@ author_profile: true
 
 <p style='text-align: justify; padding=0px; margin=0px;'><div class='line-break-container'>
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
-<div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a></div></p>
+<div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a></div></div></p>
 
 <p style='text-align: justify; padding=0px; margin=0px;'><div class='line-break-container'>When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870, with <a href='https://eml.berkeley.edu/~enakamura'>Emi Nakamura</a> and <a href='https://eml.berkeley.edu/~jsteinsson'>Jón Steinsson</a><br>
 <div class='indent-after-br'>Revise and resubmit, <i>Quarterly Journal of Economics</i><br>
