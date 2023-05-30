@@ -15,7 +15,7 @@ author_profile: true
   }
 </style>
 
-<div style='text-align: justify; padding=0px; margin=0px;' class='line-break-container'>
+<div style='text-align: justify; padding=0px; margin=0px;'>
 
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 <div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a></div><br>
