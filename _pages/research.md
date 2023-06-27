@@ -27,7 +27,7 @@ When Did Growth Begin? New Estimates of Productivity Growth in England from 1250
 Supply or Demand: What Drives Fluctuations in the Bank Loan Market? with <a href='https://sites.google.com/view/carlo-altavilla/home'>Carlo Altavilla</a> and <a href='https://www.ecb.europa.eu/pub/research/authors/profiles/miguel-boucinha.en.html'>Miguel Boucinha</a><br>
 <div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/abb_supply_demand.pdf'>Paper</a></div><br>
 
-Fiscal-Monetary Interactions in the United States, with <br> <a href='https://seungkihong.com/'>Seungki Hong</a>
+Fiscal-Monetary Interactions in the United States, with <a href='https://seungkihong.com/'>Seungki Hong</a>
 <div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/bh_fiscal-monetary.pdf'>Paper</a>
 
 </div>
