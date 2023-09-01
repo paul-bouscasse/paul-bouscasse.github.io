@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assisstant Professor  
+Assistant Professor  
 Department of Economics  
 Sciences Po  
   
