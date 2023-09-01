@@ -10,11 +10,11 @@ author_profile: true
 
 <p style='text-align: justify;'><i>Macroeconomics 1</i> (PhD)<br>
 Main instructor<br>
-Fall 2023</p>
-<p style='text-align: justify;'><i>Economic History</i> (PhD)<br>
+Fall 2023<br>
+<i>Economic History</i> (PhD)<br>
 Co-instructor with Moritz Schularick<br>
-Fall 2023</p>
-<p style='text-align: justify;'><i>Macrohistory</i> (Master)<br>
+Fall 2023
+<i>Macrohistory</i> (Master)<br>
 Co-instructor with Moritz Schularick<br>
 Fall 2023</p>
 
