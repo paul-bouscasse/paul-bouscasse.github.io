@@ -6,16 +6,13 @@ author_profile: true
 ---
 <hr />
 
-Email: [paul.bouscasse@econ.cam.ac.uk](mailto:paul.bouscasse@econ.cam.ac.uk)
-
-Phone: +44 1223 335283
+Email: [paul.bouscasse@sciencespo.fr](mailto:paul.bouscasse@sciencespo.fr)
 
 Address:  
-Faculty of Economics  
-University of Cambridge  
-Austin Robinson Building  
-Sidgwick Avenue  
-Cambridge, CB3 9DD  
-United Kingdom  
+Department of Economics  
+Sciences Po  
+28, rue des Saints-Pères
+75007 Paris  
+France  
 
-Office: room 75
+Office: F 403 C  

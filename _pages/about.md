@@ -8,10 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Research Fellow  
-Faculty of Economics  
-University of Cambridge  
+Assisstant Professor  
+Department of Economics  
+Sciences Po  
   
 <p style='text-align: justify;'>Fields: Macroeconomics, International Finance, Economic History</p>
 ---  
-<p style='text-align: justify;'>Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics of the University of Cambridge. I will be an Assistant Professor at Sciences Po from September 2023 on.</p>
+<p style='text-align: justify;'>Welcome! I an Assistant Professor of Economics at Sciences Po. I hold a PhD from Columbia University.</p>

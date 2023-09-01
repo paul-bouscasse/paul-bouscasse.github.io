@@ -6,6 +6,20 @@ author_profile: true
 ---
 <hr />
 
+<p style='text-align: justify;'><b>Sciences Po</b></p>
+
+<p style='text-align: justify;'><i>Macroeconomics 1</i> (PhD)<br>
+Main instructor<br>
+Fall 2023</p>
+
+<p style='text-align: justify;'><i>Economic History</i> (PhD)<br>
+Co-instructor with Moritz Schularick<br>
+Fall 2023</p>
+
+<p style='text-align: justify;'><i>Macrohistory</i> (Master)<br>
+Co-instructor with Moritz Schularick<br>
+Fall 2023</p>
+
 <p style='text-align: justify;'><b>Columbia University</b></p>
 
 <p style='text-align: justify;'><i>Macroeconomic Analysis I</i> (PhD)<br>
