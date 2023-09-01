@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Paul Bouscasse"
   avatar           : "bouscasse_site.jpg"
-  bio              : "Assistant Professor, Sciences Po"
+  bio              : "Assistant Professor"
   location         : 
-  employer         : 
+  employer         : "Sciences Po"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qRlYHN8AAAAJ&hl=en"
   email            : "paul.bouscasse@sciencespo.fr"
