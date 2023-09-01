@@ -8,18 +8,14 @@ author_profile: true
 
 <p style='text-align: justify;'><b>Sciences Po</b></p>
 
-<p style='text-align: justify;'><i>Macroeconomics 1</i> (PhD)<br>
-Instructor, Fall 2023<br>
+<p style='text-align: justify;'>Macroeconomics 1 (PhD), Instructor, Fall 2023<br>
 <br>
-<i>Economic History</i> (PhD)<br>
-Instructor, Fall 2023<br>
+Economic History</i> (PhD), Instructor, Fall 2023<br>
 <br>
-<i>Macrohistory</i> (Master)<br>
-Instructor, Fall 2023</p>
+<i>Macrohistory</i> (Master), Instructor, Fall 2023</p>
 
 <p style='text-align: justify;'><b>Columbia University</b></p>
 
-<p style='text-align: justify;'><i>Macroeconomic Analysis I</i> (PhD)<br>
-Teaching assistant, Fall 2017 and 2019</p>
-<p style='text-align: justify;'><i>Intermediate Macroeconomics</i> (undergraduate)<br>
-Head teaching assistant, Spring 2017 and 2018</p>
+<p style='text-align: justify;'><i>Macroeconomic Analysis I</i> (PhD), Teaching assistant, Fall 2017 and 2019<br>
+<br>
+<i>Intermediate Macroeconomics</i> (undergraduate), Head teaching assistant, Spring 2017 and 2018</p>
