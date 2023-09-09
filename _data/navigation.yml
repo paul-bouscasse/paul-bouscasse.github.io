@@ -1,14 +1,22 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/bouscasse_cv.pdf
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Research"
-    url: /research/
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Contact"
-    url: /contact/    
+    url: /teaching/    
     
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
