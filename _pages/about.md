@@ -14,4 +14,4 @@ Sciences Po
   
 <p style='text-align: justify;'>Fields: Macroeconomics, International Finance, Economic History</p>
 ---  
-<p style='text-align: justify;'>Welcome! I an Assistant Professor of Economics at Sciences Po. I hold a PhD from Columbia University.</p>
+<p style='text-align: justify;'>Welcome! I am an Assistant Professor of Economics at Sciences Po. I hold a PhD from Columbia University.</p>
