@@ -23,7 +23,7 @@ When Did Growth Begin? New Estimates of Productivity Growth in England from 1250
 
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 <div class='indent-after-br'>Revise and resubmit, <i>Review of Economic Studies</i><br>
-<div class='indent-after-br'><a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a>&nbsp;&nbsp;&nbsp;[last update: April 2024]</div><br>
+<a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a>&nbsp;&nbsp;&nbsp;[last update: April 2024]</div><br>
 
 Monetary-Fiscal Interactions in the United States, with <a href='https://seungkihong.com/'>Seungki Hong</a><br>
 <div class='indent-after-br'>Revise and resubmit, <i>American Economic Journal: Macroeconomics</i><br>
