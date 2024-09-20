@@ -19,7 +19,7 @@ author_profile: true
 
 When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870, with <a href='https://eml.berkeley.edu/~enakamura'>Emi Nakamura</a> and <a href='https://eml.berkeley.edu/~jsteinsson'>Jón Steinsson</a><br>
 <div class='indent-after-br'>Accepted, <i>Quarterly Journal of Economics</i><br>
-<a href='https://paul-bouscasse.github.io/files/bns_malthus.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/malthus_estimates.xlsx'>estimates</a>&nbsp;&nbsp;&nbsp;[last update: June 2024]</div><br>
+<a href='https://paul-bouscasse.github.io/files/bns_malthus.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/malthus_estimates.xlsx'>estimates</a>&nbsp;&nbsp;&nbsp;[last update: September 2024]</div><br>
 
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 <div class='indent-after-br'>Revise and resubmit, <i>Review of Economic Studies</i><br>
