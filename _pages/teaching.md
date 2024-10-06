@@ -8,9 +8,9 @@ author_profile: true
 
 <p style='text-align: justify;'><b>Sciences Po</b></p>
 
-<p style='text-align: justify;'>Macroeconomics 1 (PhD level), Instructor, Fall 2023<br>
+<p style='text-align: justify;'>Macroeconomics 1 (PhD level), Instructor, Fall 2023 and 2024<br>
 <br>
-Economic History (PhD level), Instructor, Fall 2023<br>
+Economic History (PhD level), Instructor, Fall 2023 and 2024<br>
 <br>
 Macrohistory (Master), Instructor, Fall 2023</p>
 
