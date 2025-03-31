@@ -8,11 +8,17 @@ author_profile: true
 
 Email: [paul.bouscasse@sciencespo.fr](mailto:paul.bouscasse@sciencespo.fr)
 
-Address:  
+Postal address:  
 Department of Economics  
 Sciences Po  
-28, rue des Saints-Pères  
+27, rue Saint-Guillaume  
 75007 Paris  
 France  
 
-Office: F 403 C  
+Office address:  
+Department of Economics  
+Sciences Po  
+Room F 403 C  
+28, rue des Saints-Pères  
+75007 Paris  
+France  
