@@ -21,7 +21,7 @@ author_profile: true
 
 Monetary-Fiscal Interactions in the United States, with <a href='https://seungkihong.com/'>Seungki Hong</a><br>
 <div class='indent-after-br'>Revise and resubmit, <i>American Economic Journal: Macroeconomics</i><br>
-<a href='https://paul-bouscasse.github.io/files/bh_fiscal-monetary.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/bh_cbvar.pdf'>companion note</a>&nbsp;&nbsp;&nbsp;[last update: January 2026]</div><br>
+<a href='https://paul-bouscasse.github.io/files/bh_fiscal-monetary.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/bh_cbvar.pdf'>note</a>&nbsp;&nbsp;&nbsp;[last update: January 2026]</div><br>
 
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
 <div class='indent-after-br'>Revise and resubmit, <i>Review of Economic Studies</i><br>
