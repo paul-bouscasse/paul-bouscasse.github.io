@@ -20,7 +20,7 @@ author_profile: true
 <p style='text-align: justify;'><b>Working papers</b></p>
 
 Canst Thou Beggar Thy Neighbour? Evidence from the 1930s<br>
-<div class='indent-after-br'>Revise and resubmit, <i>Review of Economic Studies</i><br>
+<div class='indent-after-br'>Conditionally accepted, <i>Review of Economic Studies</i><br>
 <a href='https://paul-bouscasse.github.io/files/bouscasse_devaluations.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/bouscasse_data_appendix.pdf'>data appendix</a>&nbsp;&nbsp;&nbsp;[last update: June 2026]</div><br>
 
 Monetary-Fiscal Interactions in the United States, with <a href='https://seungkihong.com/'>Seungki Hong</a><br>
