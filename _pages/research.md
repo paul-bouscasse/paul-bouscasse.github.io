@@ -15,7 +15,7 @@ author_profile: true
   }
 </style>
 
-<div style='text-align: justify; padding=0px; margin=0px;'>
+<div style='text-align: justify; padding: 0px; margin: 0px;'>
 
 <p style='text-align: justify;'><b>Working papers</b></p>
 
@@ -33,7 +33,7 @@ Supply or Demand: What Drives Fluctuations in the Bank Loan Market? with <a href
 <p style='text-align: justify;'><b>Publication</b></p>
 
 When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870, with <a href='https://eml.berkeley.edu/~enakamura'>Emi Nakamura</a> and <a href='https://eml.berkeley.edu/~jsteinsson'>Jón Steinsson</a><br>
-<div class='indent-after-br'><i>Quarterly Journal of Economics</i>, 140(2), 835-888, 2025<br>
-<a href='https://paul-bouscasse.github.io/files/bns_malthus.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/bns_malthus_appendix.pdf'>appendix</a>, <a href='https://paul-bouscasse.github.io/files/bns_malthus_erratum.pdf'>erratum</a>, <a href='https://paul-bouscasse.github.io/files/bns_estimates.xlsx'>estimates</a>, <a href='https://doi.org/10.7910/DVN/5EXFLU'>replication</a>&nbsp;&nbsp;&nbsp;</div>
+<div class='indent-after-br'><i>Quarterly Journal of Economics</i>, 140(2), 835&ndash;888, 2025<br>
+<a href='https://paul-bouscasse.github.io/files/bns_malthus.pdf'>Paper</a>, <a href='https://paul-bouscasse.github.io/files/bns_malthus_appendix.pdf'>appendix</a>, <a href='https://paul-bouscasse.github.io/files/bns_malthus_erratum.pdf'>erratum</a>, <a href='https://paul-bouscasse.github.io/files/bns_estimates.xlsx'>estimates</a>, <a href='https://doi.org/10.7910/DVN/5EXFLU'>replication</a></div>
 
 </div>

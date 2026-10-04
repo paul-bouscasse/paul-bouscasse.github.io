@@ -12,7 +12,7 @@ author_profile: true
 <br>
 Economic History (PhD level), Instructor, Fall 2023&ndash;25<br>
 <br>
-Macrohistory (Master), Instructor, Fall 2023</p>
+Macrohistory (Master's), Instructor, Fall 2023</p>
 
 <p style='text-align: justify;'><b>Columbia University</b></p>
 
