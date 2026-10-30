@@ -8,6 +8,8 @@ author_profile: true
 
 <p style='text-align: justify;'><b>Sciences Po</b></p>
 
+<p style='text-align: justify;'>International Macroeconomics (Master's), Instructor, Spring 2027<br>
+<br>
 <p style='text-align: justify;'>Macroeconomics 1 (PhD level), Instructor, Fall 2023&ndash;26<br>
 <br>
 Economic History (PhD level), Instructor, Fall 2023&ndash;26<br>
